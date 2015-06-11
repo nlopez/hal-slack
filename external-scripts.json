@@ -14,6 +14,5 @@
   "hubot-thesimpsons",
   "hubot-seen",
   "hubot-whois",
-  "hubot-darksky",
-  "hubot-time-me"
+  "hubot-darksky"
 ]
