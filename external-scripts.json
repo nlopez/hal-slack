@@ -13,5 +13,6 @@
   "hubot-devops-reactions",
   "hubot-thesimpsons",
   "hubot-seen",
-  "hubot-whois"
+  "hubot-whois",
+  "hubot-darksky"
 ]
