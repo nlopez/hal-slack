@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-devops-reactions",
   "hubot-thesimpsons",
-  "hubot-seen"
+  "hubot-seen",
+  "hubot-whois"
 ]
