@@ -15,5 +15,6 @@
   "hubot-seen",
   "hubot-whois",
   "hubot-darksky",
-  "hubot-plusplus"
+  "hubot-plusplus",
+  "hubot-giphy-gifme"
 ]
