@@ -17,5 +17,6 @@
   "hubot-darksky",
   "hubot-plusplus",
   "hubot-giphy-gifme",
-  "hubot-lastfm"
+  "hubot-lastfm",
+  "hubot-netrunner"
 ]
